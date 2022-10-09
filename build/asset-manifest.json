@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactodo/static/css/main.d6bea8fe.css",
+    "main.js": "/reactodo/static/js/main.494ff36e.js",
+    "static/js/787.63e47474.chunk.js": "/reactodo/static/js/787.63e47474.chunk.js",
+    "index.html": "/reactodo/index.html",
+    "main.d6bea8fe.css.map": "/reactodo/static/css/main.d6bea8fe.css.map",
+    "main.494ff36e.js.map": "/reactodo/static/js/main.494ff36e.js.map",
+    "787.63e47474.chunk.js.map": "/reactodo/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6bea8fe.css",
+    "static/js/main.494ff36e.js"
+  ]
+}
